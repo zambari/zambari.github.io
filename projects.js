@@ -5,15 +5,15 @@
 //   links:    extra buttons, e.g. { label: "Forum thread", url: "https://..." }.
 window.PROJECTS = [
   {
-    name: "Sample Manager",
+    name: "KitPool",
     tagline: "Sample library and +Drive manager for the Elektron Digitakt",
     description:
       "Dig through a sample library, cut out the good bits and get them onto " +
       "a Digitakt or Digitakt II. Browse and transfer files on the +Drive over " +
       "USB, build slice kits, reorder the sample pool, and move patterns and " +
       "sounds around without menu-diving on the device.",
-    image: "images/sample-manager.png",
-    imageAlt: "Sample Manager's sample editor with waveform, gain and scalpel panels",
+    image: "images/kitpool.png",
+    imageAlt: "KitPool's sample editor with waveform, gain and scalpel panels",
     repo: "zambari/kitpool",
     releases: true,
     tags: ["Rust", "macOS", "Windows", "Elektron"],
