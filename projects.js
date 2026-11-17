@@ -14,7 +14,7 @@ window.PROJECTS = [
       "sounds around without menu-diving on the device.",
     image: "images/sample-manager.png",
     imageAlt: "Sample Manager's sample editor with waveform, gain and scalpel panels",
-    repo: "zambari/sample-manager-electron",
+    repo: "zambari/kitpool",
     releases: true,
     tags: ["Rust", "macOS", "Windows", "Elektron"],
     links: [],
