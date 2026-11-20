@@ -19,4 +19,16 @@ window.PROJECTS = [
     tags: ["Rust", "macOS", "Windows", "Elektron"],
     links: [],
   },
+  {
+    name: "T9 KeyScale",
+    tagline: "Key track and scale remap mod for the Digitakt mk1",
+    description:
+      "An Elekloader firmware mod for the original Digitakt. Track 9 becomes a " +
+      "key track that transposes the tracks you choose, and a free 12-note " +
+      "scale remap lets you bend any note onto any other.",
+    repo: "zambari/t9-keyscale",
+    releases: true,
+    tags: ["C", "Firmware", "Elektron"],
+    links: [],
+  },
 ];
