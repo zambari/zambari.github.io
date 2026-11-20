@@ -26,6 +26,8 @@ window.PROJECTS = [
       "An Elekloader firmware mod for the original Digitakt. Track 9 becomes a " +
       "key track that transposes the tracks you choose, and a free 12-note " +
       "scale remap lets you bend any note onto any other.",
+    image: "images/t9-keyscale.jpg",
+    imageAlt: "The scale editor on the Digitakt's screen",
     repo: "zambari/t9-keyscale",
     releases: true,
     tags: ["C", "Firmware", "Elektron"],
